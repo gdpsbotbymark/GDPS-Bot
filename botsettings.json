@@ -20,6 +20,6 @@
     "length": "<:length:735567666101878927>",
     "__Leaderboard Comment__": "These are for the Leaderboard command, the command wont work unless you are logged in. you can find the AccountID using the profile command",
     "leaderboardOn": "1 = Leaderboard on, 0 = Leaderboard off",
-    "BotAccountID": "The Bot's accountID",
-    "BotPassword": "The password for the bot"
+    "BotAccountID": "1",
+    "BotPassword": "123456"
 }
