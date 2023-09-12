@@ -1,6 +1,6 @@
 {
     "token": "Token",
-    "prefix": "w!",
+    "prefix": "!",
     "server": "2bmarkgd.xyz/databasegdpsm",
     "customStatus": "WGDPS",
     "commandColour": "37D0DA",
